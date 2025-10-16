@@ -8,6 +8,8 @@ add_executable(prj1 prj1/main.cpp)
 add_executable(ex2 ex2/ex2.cpp)
 add_executable(RoomCleaningPrice Section6/RoomCleaningPrice.cpp)
 add_executable(arrays_7_1 Section7/arrays_7_1.cpp)
+
+
 add_executable(vectors_7_2 Section7/vectors_7_2.cpp)
 
 add_executable(operators   Section8/operators.cpp)
@@ -19,5 +21,8 @@ add_executable(cppStrings Section10/CppStrings.cpp)
 add_executable(challange10 Section10/challange10.cpp)
 add_executable(LetterPyramid        Section10/LetterPyramid.cpp)
 add_executable(leet_code_roman_integer leet_code/RomanToInteger.cpp)
+add_executable(leet_prefix leet_code/LongestCommonPrefix.cpp)
+add_executable(leet_3sum leet_code/threeSum_15.cpp)
+ add_executable(pass_by_ref       Section11/passByRefrence.cpp)
 
-
+add_executable(penny_a_day Section11/penny_a_day.cpp)
